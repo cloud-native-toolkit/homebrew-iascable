@@ -1,6 +1,6 @@
 # IasCable (Homebrew)
 
-(Homebrew)[https://brew.sh/] installation for (IasCable)[https://github.com/cloud-native-toolkit/iascable]
+[Homebrew](https://brew.sh/) installation for [IasCable](https://github.com/cloud-native-toolkit/iascable)
 
 IasCable is a library and CLI used to generate Infrastructure as Code installable components composed from a catalog of 
 modules.
