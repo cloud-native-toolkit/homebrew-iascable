@@ -8,6 +8,8 @@ class Iascable < Formula
 
   def install
     bin.install "iscable"
+    prefix.install "README.md"
+    prefix.install "LICENSE"
   end
 
 end
